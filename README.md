@@ -1,14 +1,14 @@
-# kopi Nusantara
+ Kopi Nusantara
 
-**Nama:** Muhammad Fitrah Alsaufi
+*Nama:* Muhammad Fitrah Alsaufi
 
-**Nama Proyek:** kopi Nusantara
+*Nama Proyek:* Kopi Nusantara
 
-** Deskripsi
+## Deskripsi
 Website Kopi Nusantara merupakan proyek
-Website Untuk memperkenalkan produk kopi.
+website untuk memperkenalkan produk kopi.
 
 ## Teknologi
--HTML
--CSS
--JavaScript
+- HTML
+- CSS
+- JavaScript
