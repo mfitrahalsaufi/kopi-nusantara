@@ -8,7 +8,3 @@
 Website Kopi Nusantara merupakan proyek
 website untuk memperkenalkan produk kopi.
 
-## Teknologi
-- HTML
-- CSS
-- JavaScript
